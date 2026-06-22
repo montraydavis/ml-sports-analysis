@@ -433,3 +433,6 @@ data/
 
 # Self-improvement / scratch workspace
 tmp/
+
+# Local archives (too large for GitHub)
+CLAUDE.zip
